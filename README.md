@@ -73,7 +73,7 @@ whether that's acceptable for your car before you rely on this.
 
 ## The build
 
-Arduino Nano Every, a 200 kΩ linear pot, three wires to the EPS module.
+Arduino Nano Every, a 200 kΩ linear pot, three wires to the EPS module which uses a 4 pin KET connector.
 
 | Nano Every | Connects to |
 | --- | --- |
